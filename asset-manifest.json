@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.183ec4cc.chunk.css",
+    "main.js": "/static/js/main.d70ac692.chunk.js",
+    "main.js.map": "/static/js/main.d70ac692.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.88640e28.js",
+    "runtime-main.js.map": "/static/js/runtime-main.88640e28.js.map",
+    "static/js/2.dfb477e8.chunk.js": "/static/js/2.dfb477e8.chunk.js",
+    "static/js/2.dfb477e8.chunk.js.map": "/static/js/2.dfb477e8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.183ec4cc.chunk.css.map": "/static/css/main.183ec4cc.chunk.css.map",
+    "static/js/2.dfb477e8.chunk.js.LICENSE.txt": "/static/js/2.dfb477e8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/como.194dddce.png": "/static/media/como.194dddce.png",
+    "static/media/cross.ab70d8b0.png": "/static/media/cross.ab70d8b0.png",
+    "static/media/logo.8dc5d9d6.png": "/static/media/logo.8dc5d9d6.png",
+    "static/media/onboarding.1a92f346.mp4": "/static/media/onboarding.1a92f346.mp4",
+    "static/media/pattern.c69603ea.jpg": "/static/media/pattern.c69603ea.jpg",
+    "static/media/video-first.badd30ca.jpg": "/static/media/video-first.badd30ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88640e28.js",
+    "static/js/2.dfb477e8.chunk.js",
+    "static/css/main.183ec4cc.chunk.css",
+    "static/js/main.d70ac692.chunk.js"
+  ]
+}
